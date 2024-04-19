@@ -26,8 +26,8 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/realtime-chat-app.git
-
+git clone [(https://github.com/oluwatay123/cyberConnect.git)
+]
 Navigate to the project directory:
 
 bash
