@@ -3,7 +3,7 @@ Real-Time Chat App with React and Firebase
 This is a simple real-time chat application built with React for the frontend and Firebase for the backend. Users can sign in with their Google accounts and chat with others in real-time.
 Features
 
-    User authentication with Google Sign-In.
+    User authentication with email and password.
     Real-time chat functionality.
     Simple and intuitive user interface.
 
